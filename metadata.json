@@ -1,0 +1,6 @@
+{
+  "name": "Your Friend",
+  "description": "A highly polished, real-time Progressive Web App chat platform with offline sync, IndexedDB persistence, and Google Drive backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
